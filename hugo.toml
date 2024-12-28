@@ -1,0 +1,31 @@
+baseURL = 'https://YourDomain.com'
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
+title = 'Antônio & Mateus'
+theme = 'lynx'
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[params.author]
+  name = "Antônio & Mateus"
+  headline = "Conheça um pouco mais sobre os gêmeos Antônio & Mateus."
+  image = "antonioemateus_profile.jpg"
+
+  links = [
+    { email = "mailto:antonioemateus@duck.com" },
+    { threads = "https://www.threads.net/@USERNAME" },
+    { twitter = "https://twitter.com/USERNAME" },
+    { x = "https://x.com/USERNAME" },
+    { tiktok = "tiktok.com/@USERNAME" },
+    { mastodon = "https://mastodon.social/@USERNAME" },
+    { github = "https://github.com/USERNAME" },
+    { youtube = "https://youtube.com/USERNAME" },
+    { linkedin = "https://www.linkedin.com/" },
+    { link = { href = "https://google.com", text = "Publicidade" } },
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.140.1"
