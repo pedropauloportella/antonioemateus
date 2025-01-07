@@ -1,4 +1,4 @@
-baseURL = 'https://YourDomain.com'
+baseURL = 'https://gemeos.online/antonioemateus'
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
 title = 'Antônio & Mateus'
@@ -13,16 +13,10 @@ disableKinds = ["taxonomy", "term"]
   image = "antonioemateus_profile.jpg"
 
   links = [
-    { email = "mailto:antonioemateus@duck.com" },
-    { threads = "https://www.threads.net/@USERNAME" },
-    { twitter = "https://twitter.com/USERNAME" },
-    { x = "https://x.com/USERNAME" },
-    { tiktok = "tiktok.com/@USERNAME" },
-    { mastodon = "https://mastodon.social/@USERNAME" },
-    { github = "https://github.com/USERNAME" },
-    { youtube = "https://youtube.com/USERNAME" },
-    { linkedin = "https://www.linkedin.com/" },
-    { link = { href = "https://google.com", text = "Publicidade" } },
+    { email = "mailto:triplopapa@duck.com" },
+    { tiktok = "https://tiktok.com/@antonioemateus"},
+    { youtube = "https://youtube.com/antonioemateus"},
+    { link = { href = "./contato", text = "Publicidade & Parcerias" } }
   ]
 
 [module]
