@@ -19,7 +19,13 @@ disableKinds = ["taxonomy", "term"]
     { link = { href = "./contato", text = "Publicidade & Parcerias" } }
   ]
 
+[services]
+  [services.googleAnalytics]
+    id = 'GTM-56GD6BLJ'
+    
 [module]
   [module.hugoVersion]
     extended = false
     min = "0.86.1"
+
+
