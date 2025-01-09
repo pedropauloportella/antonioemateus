@@ -1,6 +1,6 @@
 baseURL = 'https://antonioemateus.pages.dev/'
-languageCode = "pt-br"
-defaultContentLanguage = "pt-br"
+languageCode = "pt-BR"
+defaultContentLanguage = "pt-BR"
 title = 'Antônio & Mateus'
 theme = 'lynx'
 
@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term"]
 [services]
   [services.googleAnalytics]
     id = 'GTM-56GD6BLJ'
-    
+
 [module]
   [module.hugoVersion]
     extended = false
