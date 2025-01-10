@@ -29,5 +29,3 @@ disableKinds = ["taxonomy", "term"]
     min = "0.86.1"
 
 googleAnalytics = "GTM-56GD6BLJ"
-
-HUGO_ENV=production hugo
