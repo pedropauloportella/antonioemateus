@@ -3,7 +3,7 @@ languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
 title = 'Antônio & Mateus'
 theme = 'lynx'
-googleAnalytics = "GTM-56GD6BLJ"
+googleAnalytics = 'GTM-56GD6BLJ'
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
