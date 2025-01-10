@@ -28,4 +28,3 @@ disableKinds = ["taxonomy", "term"]
   [module.hugoVersion]
     extended = false
     min = "0.86.1"
-
